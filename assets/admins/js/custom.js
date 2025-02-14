@@ -13,7 +13,7 @@ $(function() {
     });
 
     // ============================================================== 
-    // Resize all elements
+    // Resize all elements I am really shocked
     // ============================================================== 
     $("body, .page-wrapper").trigger("resize");
     $(".page-wrapper").delay(20).show();
